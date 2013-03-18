@@ -1,3 +1,5 @@
+# Rail 2.9 
+
 require File.dirname(__FILE__) + '/../test_helper'
 
 class EventPositioningTest < ActiveSupport::TestCase

@@ -1,3 +1,5 @@
+# Rail 2.9 
+
 class EventPositioning < ActiveRecord::Base
 
   has_many :scheduled_events , :dependent => :delete_all

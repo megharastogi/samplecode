@@ -1,3 +1,4 @@
+# Rail 2.9 
 module EventPositioningModule
 
   def update_event_positioning
